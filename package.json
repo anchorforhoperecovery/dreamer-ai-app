@@ -1,0 +1,39 @@
+{
+  "name": "dreamer-ai-app",
+  "version": "1.0.0",
+  "description": "This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.",
+  "main": "vite.config.js",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.105.1",
+    "detect-libc": "^2.1.2",
+    "fdir": "^6.5.0",
+    "lightningcss": "^1.32.0",
+    "lightningcss-win32-x64-msvc": "^1.32.0",
+    "nanoid": "^3.3.12",
+    "picocolors": "^1.1.1",
+    "picomatch": "^4.0.4",
+    "postcss": "^8.5.13",
+    "react": "^19.2.5",
+    "react-dom": "^19.2.5",
+    "rolldown": "^1.0.0-rc.17",
+    "scheduler": "^0.27.0",
+    "source-map-js": "^1.2.1",
+    "tinyglobby": "^0.2.16",
+    "vite": "^8.0.10"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anchorforhoperecovery/dreamer-ai-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/anchorforhoperecovery/dreamer-ai-app/issues"
+  },
+  "homepage": "https://github.com/anchorforhoperecovery/dreamer-ai-app#readme"
+}
